@@ -17,14 +17,19 @@ ini adalah halaman home
 dapat anda lihat dibagian atas terdapat baris menu untuk mengatur jam alarm ini yaitu home, set jam, set alarm, set teks, dan kontak.
 untuk beberapa versi jam unik kemungkinan menunya akan berbeda seperti pada jam jenis sevensegment tidak memiliki menu set teks,
 sedangkan di jam versi led matrix memiliki menu set teks.
+
 ![home](https://github.com/metra05/setting-jam-digital/assets/57317176/611abb7b-8aa5-4785-9756-7cc0d09d8c20)
+
 
 ini adalah halaman seting jam
 
 ![setjam](https://github.com/metra05/setting-jam-digital/assets/57317176/33ef86af-136b-498a-bccc-4645924a8461)
 
+
 selanjutnya ini adalah halaman seting alarm
+
 ![set_alarm](https://github.com/metra05/setting-jam-digital/assets/57317176/8e645647-214e-47c3-ab2c-31a3b8e9dc4b)
+
 
 dan yang terkhir ini adlah halamn kontak
 ![kontak](https://github.com/metra05/setting-jam-digital/assets/57317176/48e9f2c1-1e1b-4e8e-a4d2-c6d6071ef269)

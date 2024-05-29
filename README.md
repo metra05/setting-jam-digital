@@ -10,5 +10,4 @@ sekarang matikan paket data anda dan masuk kepengaturan wifi,
 scan wifi dan temukan ssid dari jam unilk ini.
 masuklah dengan password: 123456789.
 
-![alt text](https://github.com/metra05/setting-jam-digital/blob/home.jpeg?raw=true)
-
+![home](https://github.com/metra05/setting-jam-digital/assets/57317176/611abb7b-8aa5-4785-9756-7cc0d09d8c20)

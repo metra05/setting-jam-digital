@@ -29,5 +29,7 @@ selanjutnya ini adalah halaman seting alarm
 dan yang terkhir ini adlah halamn kontak
 ![kontak](https://github.com/metra05/setting-jam-digital/assets/57317176/48e9f2c1-1e1b-4e8e-a4d2-c6d6071ef269)
 
+![Optional Text](../main/home.jpeg)
+
 
 

@@ -1,4 +1,4 @@
-# setting-jam-digital
+# Setting-jam-digital
 
 ini adalah halaman petunjuk cara seting jam digital
 silahkan ikuti petunjuk ini.
@@ -34,7 +34,7 @@ tinggal di kirim agar tersimpan di jam unik ini.
 
 
 # ini Seting ALarm
-selanjutnya ini adalah halaman seting alarm dimana di halaman ini anda dapat menyeting waktu alarm berbunyi sesuai dengan jam, menit, lama ia berbunyi dan harinya.
+Selanjutnya ini adalah halaman seting alarm dimana di halaman ini anda dapat menyeting waktu alarm berbunyi sesuai dengan jam, menit, lama ia berbunyi dan harinya.
 maka alarm akan terus berbunyi sesuai dengan waktu yang diseting secara berulang.
 
 ![set_alarm](https://github.com/metra05/setting-jam-digital/assets/57317176/8e645647-214e-47c3-ab2c-31a3b8e9dc4b)
@@ -42,12 +42,9 @@ maka alarm akan terus berbunyi sesuai dengan waktu yang diseting secara berulang
 
 
 # ini Halaman Kontak
-dan yang terkhir ini adalah halamn kontak, anda dapat menghubungi saya, technical konsult, sharing project, atau klaim garansi. 
+Dan yang terkhir ini adalah halamn kontak, anda dapat menghubungi saya, technical konsult, sharing project, atau klaim garansi. 
 
-![kontak](https://github.com/metra05/setting-jam-digital/assets/57317176/48e9f2c1-1e1b-4e8e-a4d2-c6d6071ef269)
-
-
-![Optional Text](../main/home.jpeg)
+![Optional Text](../main/kontak.jpeg)
 
 
 

@@ -29,7 +29,9 @@ sedangkan di jam versi led matrix memiliki menu set teks.
 Terdapat 2 cara untuk mengeSet jam digital ini, pertama dengan menggunakan tombol sinkronkan jam, dimana secara otomatis
 jam unik ini akan menyamakan jam dengan jam di hp, dan yang kedua adalah dengan mengisi secara manual data data waktu lalu
 tinggal di kirim agar tersimpan di jam unik ini.
+
 ![setjam](https://github.com/metra05/setting-jam-digital/assets/57317176/33ef86af-136b-498a-bccc-4645924a8461)
+
 
 # ini Seting ALarm
 selanjutnya ini adalah halaman seting alarm dimana di halaman ini anda dapat menyeting waktu alarm berbunyi sesuai dengan jam, menit, lama ia berbunyi dan harinya.
@@ -38,9 +40,12 @@ maka alarm akan terus berbunyi sesuai dengan waktu yang diseting secara berulang
 ![set_alarm](https://github.com/metra05/setting-jam-digital/assets/57317176/8e645647-214e-47c3-ab2c-31a3b8e9dc4b)
 
 
-# ini HAlaman Kontak
-dan yang terkhir ini adlah halamn kontak
+
+# ini Halaman Kontak
+dan yang terkhir ini adalah halamn kontak, anda dapat menghubungi saya, technical konsult, sharing project, atau klaim garansi. 
+
 ![kontak](https://github.com/metra05/setting-jam-digital/assets/57317176/48e9f2c1-1e1b-4e8e-a4d2-c6d6071ef269)
+
 
 ![Optional Text](../main/home.jpeg)
 

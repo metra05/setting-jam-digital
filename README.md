@@ -22,7 +22,7 @@ Dapat anda lihat dibagian atas terdapat baris menu untuk mengatur jam alarm ini 
 untuk beberapa versi jam unik kemungkinan menunya akan berbeda seperti pada jam jenis sevensegment tidak memiliki menu set teks,
 sedangkan di jam versi led matrix memiliki menu set teks.
 
-![home](https://github.com/metra05/setting-jam-digital/assets/57317176/611abb7b-8aa5-4785-9756-7cc0d09d8c20)
+![Optional Text](../main/home.jpeg)
 
 
 # ini adalah halaman seting jam
@@ -30,14 +30,14 @@ Terdapat 2 cara untuk mengeSet jam digital ini, pertama dengan menggunakan tombo
 jam unik ini akan menyamakan jam dengan jam di hp, dan yang kedua adalah dengan mengisi secara manual data data waktu lalu
 tinggal di kirim agar tersimpan di jam unik ini.
 
-![setjam](https://github.com/metra05/setting-jam-digital/assets/57317176/33ef86af-136b-498a-bccc-4645924a8461)
+![Optional Text](../main/setjam.jpeg)
 
 
 # ini Seting ALarm
 Selanjutnya ini adalah halaman seting alarm dimana di halaman ini anda dapat menyeting waktu alarm berbunyi sesuai dengan jam, menit, lama ia berbunyi dan harinya.
 maka alarm akan terus berbunyi sesuai dengan waktu yang diseting secara berulang.
 
-![set_alarm](https://github.com/metra05/setting-jam-digital/assets/57317176/8e645647-214e-47c3-ab2c-31a3b8e9dc4b)
+![Optional Text](../main/set_alarm.jpeg)
 
 
 
